@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to Awesome Orca Note! 
+Thank you for your interest in contributing to Awesome Orca Note!
 
 [English](#english) | [中文](#中文)
 
@@ -18,9 +18,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 3. **Use the following format:**
    ```markdown
-   - **[Plugin Name](link)** - Brief description of what the plugin does.
-     - Author: [@username](link)
-     - License: MIT
+   - **[Plugin Name](link)** - Brief description of what the plugin does. [@username](link)
    ```
 
 4. **New categories or improvements to the existing categorization are welcome.**
@@ -74,9 +72,7 @@ Please use the GitHub interface to edit files in your pull request, or amend you
 
 3. **使用以下格式：**
    ```markdown
-   - **[插件名称](链接)** - 插件功能的简要描述。
-     - 作者：[@用户名](链接)
-     - 许可证：MIT
+   - **[插件名称](链接)** - 插件功能的简要描述。 [@用户名](链接)
    ```
 
 4. **欢迎新的类别或对现有分类的改进。**

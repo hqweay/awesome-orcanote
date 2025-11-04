@@ -34,49 +34,35 @@
 
 Plugins that enhance your productivity and workflow.
 
-- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - A plugin that helps you quickly create tasks using Orca Note's tag system.
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - A plugin that helps you quickly create tasks using Orca Note's tag system. [@sethyuan](https://github.com/sethyuan)
 
-- **[Random Walk](https://github.com/sethyuan/orca-random-walk)** - A plugin to help you recap/review notes (random-walk review).
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Random Walk](https://github.com/sethyuan/orca-random-walk)** - A plugin to help you recap/review notes (random-walk review). [@sethyuan](https://github.com/sethyuan)
 
 #### Note Management
 
 Plugins for organizing, searching, and managing your notes.
 
-- **[Linker](https://github.com/sethyuan/orca-plugin-linker)** - Manages large assets outside Orca Note by creating virtual paths to reference them.
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Linker](https://github.com/sethyuan/orca-plugin-linker)** - Manages large assets outside Orca Note by creating virtual paths to reference them. [@sethyuan](https://github.com/sethyuan)
 
 #### Formatting and Editing
 
 Plugins that enhance text formatting and editing capabilities.
 
-- **[Hidden Text](https://github.com/sethyuan/orca-plugin-hidden-text)** - Provides the ability to hide selected text (for folding/obscuring content).
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Hidden Text](https://github.com/sethyuan/orca-plugin-hidden-text)** - Provides the ability to hide selected text (for folding/obscuring content). [@sethyuan](https://github.com/sethyuan)
 
 #### Import/Export
 
 Plugins for importing from or exporting to various formats.
 
-- **[Share Card](https://github.com/sethyuan/orca-plugin-share-card)** - Exports notes as cards (images) for sharing on mobile devices.
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Share Card](https://github.com/sethyuan/orca-plugin-share-card)** - Exports notes as cards (images) for sharing on mobile devices. [@sethyuan](https://github.com/sethyuan)
 
 #### Integration
 
 Plugins that integrate Orca Note with other applications and services.
 
-- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - Syncs Flomo notes into Orca Note (sync into journals).
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - Syncs Flomo notes into Orca Note (sync into journals). [@sethyuan](https://github.com/sethyuan)
 
-- **[Dinox Sync](https://github.com/sethyuan/orca-dinox-sync)** - Syncs Dinox notes into Orca Note (sync into journals).
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Dinox Sync](https://github.com/sethyuan/orca-dinox-sync)** - Syncs Dinox notes into Orca Note (sync into journals). [@sethyuan](https://github.com/sethyuan)
 
 #### Visualization
 
@@ -86,9 +72,7 @@ Plugins for visualizing data, graphs, and relationships.
 
 Tools and plugins for developers working with Orca Note.
 
-- **[orca-plugin-template](https://github.com/sethyuan/orca-plugin-template)** - A basic plugin template for building Orca Note plugins (starter example).
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[orca-plugin-template](https://github.com/sethyuan/orca-plugin-template)** - A basic plugin template for building Orca Note plugins (starter example). [@sethyuan](https://github.com/sethyuan)
 
 ---
 
@@ -96,9 +80,7 @@ Tools and plugins for developers working with Orca Note.
 
 Beautiful themes to customize the appearance of Orca Note.
 
-- **[Official Themes](https://github.com/sethyuan/orca-plugin-official-themes)** - Official themes for Orca Note; provides installable theme styles.
-  - Author: [@sethyuan](https://github.com/sethyuan)
-  - License: MIT
+- **[Official Themes](https://github.com/sethyuan/orca-plugin-official-themes)** - Official themes for Orca Note; provides installable theme styles. [@sethyuan](https://github.com/sethyuan)
 
 ---
 
